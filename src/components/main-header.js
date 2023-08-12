@@ -95,7 +95,7 @@ const MainHeader = () => {
   const navigate = useNavigate();
 
   const onFrameContainer3Click = useCallback(() => {
-    navigate("/");
+    navigate("/mobile");
   }, [navigate]);
 
   return (

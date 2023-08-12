@@ -50,8 +50,8 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<IPhone13Mini7 />} />
-      <Route path="/frame-1000009409" element={<FrameComponent3 />} />
+      <Route path="/" element={<FrameComponent3 />} />
+      <Route path="/mobile" element={<IPhone13Mini7 />} />
     </Routes>
   );
 }

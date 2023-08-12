@@ -213,7 +213,7 @@ const IPhone13Mini7 = () => {
   }, []);
 
   const onFrameContainer155Click = useCallback(() => {
-    navigate("/frame-1000009409");
+    navigate("/");
   }, [navigate]);
 
   return (
