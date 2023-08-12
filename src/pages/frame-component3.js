@@ -153,3 +153,10 @@ const FrameComponent3 = () => {
 };
 
 export default FrameComponent3;
+
+
+
+
+
+
+//for desktop & laptop

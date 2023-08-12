@@ -332,3 +332,6 @@ const IPhone13Mini7 = () => {
 };
 
 export default IPhone13Mini7;
+
+
+//for mobile
